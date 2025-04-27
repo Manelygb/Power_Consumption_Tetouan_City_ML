@@ -22,8 +22,6 @@ We analyzed three energy zones separately and built predictive models for each. 
   - Classification: Naïve Bayes, KNN (categorical), Neural Networks (with bins)
 - **Evaluation Metrics**: MAE, RMSE, R² for regression; Accuracy, Precision, Recall for classification
 
-
-
 ## Conclusion
 
 This study shows that advanced models like Random Forests and Neural Networks are well-suited for energy prediction tasks. Future work could include real-time predictions and model deployment.
@@ -41,18 +39,19 @@ This study shows that advanced models like Random Forests and Neural Networks ar
 ## Team and Contributions
 
 ### Students:
-| Name              | Group | 
-|-------------------|-------|
-| YAGOUB Douaa Manel| 03    |
-| BOUDAOUD Amira    | 02    |
-| MERS Wafaa        | 03    |
+
+| Name               | Group |
+| ------------------ | ----- |
+| YAGOUB Douaa Manel | 03    |
+| BOUDAOUD Amira     | 02    |
+| MERS Wafaa         | 03    |
 
 **Project Date**: April 2024  
 **Institution**: [ENSIA]
 
 ---
 
-##  Files Included
+## Files Included
 
 - `notebook`: Jupyter Notebooks for analysis and modeling
 - `report`: Final project report and visualizations
